@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    width:800px;
+    margin-left: 350px
+}
+
+.block-title{
+    h1{
+        font-size: 100px;
+        color: blue;
+
+    }
+}
+
+
+img{
+        border-radius: 100px;
+        border-width: 40px
+
+        
+    }
+
+.block-cont-01{
+    h2{
+        font-family:cursive;
+        font-size: 50px
+    }
+    
+    p{
+        font-family: cursive;
+        font-size: 30px
+    }
+    ol{
+        font-size: 25px
+    }
+}
+
+.block-cont-02{
+    h2{
+        font-family:fantasy;
+        font-size: 50px
+    }
+    
+    p{
+        font-family: fantasy;
+        font-size: 30px
+    }
+    ul{
+        font-size: 25px
+    }
+}
+
+.block-cont-03{
+    h2{
+        font-family:monospace;
+        font-size: 50px
+    }
+    
+    p{
+        font-family: monospace;
+        font-size: 30px
+    }
+    ol{
+        font-size: 25px
+    }
+}
+
